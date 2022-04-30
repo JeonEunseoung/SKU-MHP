@@ -8,6 +8,9 @@ JSP와 MYSQL을 활용한 운동 서비스 커뮤니티에 대한 홈페이지
 </ul>
 <h3>2. 결과</h3>
 메인화면
+<img width="900" height="500" src="https://user-images.githubusercontent.com/71426985/166109069-05c20014-1330-4502-bcaa-6d900731f28e.png"><br><br>
+
+회원가입 화면
 <img width="900" height="500" src="https://user-images.githubusercontent.com/71426985/166109126-70a4996f-f5bc-47ad-8761-6c4c9fd5d0d2.png"><br><br>
 
 회원DB, 게시판DB를 활용한 로그인 및 게시판 구축
